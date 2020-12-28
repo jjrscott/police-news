@@ -1,0 +1,30 @@
+```yaml
+area: Kent
+og:
+  description: Motorcyclists in the Maidstone area are being reminded to ride responsibly and lawfully, or risk having their bikes seized.
+  image: https://www.kent.police.uk/SysSiteAssets/media/images/brand/kent/open-graph/open-graph-default.jpg?crop=(15,0,585,300)&amp;w=600&amp;h=300&amp;scale=both
+  locale: en_GB
+  title: Nuisance motorcyclists targeted near Maidstone
+  type: website
+  url: https://www.kent.police.uk/news/kent/news2/policing-news/2005/nuisance-motorcyclists-targeted-near-maidstone/
+publish:
+  date: 10:59 19/05/2020
+title: Nuisance motorcyclists targeted near Maidstone | Kent Police
+url: https://www.kent.police.uk/news/kent/news2/policing-news/2005/nuisance-motorcyclists-targeted-near-maidstone/
+```
+
+Motorcyclists in the **Maidstone** area are being reminded to ride responsibly and lawfully, or risk having their bikes seized.
+
+Maidstone officers together with Kent Police's Rural Task Force are targeting nuisance motorbikes that cause a danger to pedestrians and horse riders in rural areas.
+
+## Seized
+
+On **2 May 2020** , officers seized two uninsured off-road bikes and a quad bike on **Boxley Road, Boxley**.
+
+Two days later they also issued section 59 warnings to two motorcyclists on **Hill Road, Wouldham** and, on **Monday 18 May** , a rider was stopped in a field near **Lidsing** and received a formal warning.
+
+District Commander for Maidstone, Chief Inspector Ray Quiller said: 'Our officers are responding to concerns raised about off-road motorbikes that present a potential danger to others and affect the quality of life for the local community.
+
+'A section 59 warning gives us the power to seize and in some cases destroy a vehicle, if it has been driven uninsured or where the rider is causing a nuisance.
+
+'My patrols will continue to carry out this type of operation in rural areas around Maidstone and I would encourage residents to report any incidents to us on 101. This allows us to build a picture of the problem and deploy our patrols effectively.'

@@ -1,0 +1,45 @@
+```yaml
+area: Scotland
+title: New campaign tackles consequences of online child abuse
+url: http://www.scotland.police.uk/what-s-happening/news/2020/april/new-campaign-tackles-consequences-of-online-child-abuse-1/
+```
+
+**Published 14 April 2020**
+
+Police Scotland has launched its latest campaign targeting sexual predators who groom and abuse children online.
+
+With lockdown in place across Scotland, people are now at home for long periods of time, prompting more internet use and increasing the opportunity for predators to target children online.
+
+The new #GetHelpOrGetCaught campaign proactively targets men who are either already offending or at risk of offending. It features a film which challenges behaviour and asks the question: if you wouldn’t do it in the real world, why groom and abuse children in the online world?
+
+Launching the campaign, Assistant Chief Constable Duncan Sloan, lead for Major Crime and Public Protection, Police Scotland, said:
+
+“Protecting children from abuse online is one of our top priorities. But we are now living through a period of heightened risk, as people follow guidance and practice social distancing during the COVID-19 outbreak.
+
+“We are acutely aware that people are at home, that they have more time to access the internet and that the potential risk of online child abuse is, therefore, extremely high. This makes our current campaign even more relevant.
+
+“Online child sexual abuse is not virtual, its repercussions are real. Grooming, indecent communication and causing children to participate in sexual activity, are all serious criminal offences.
+
+“Offenders will be identified and arrested and they will face the consequences of their actions: not just a conviction but the potential loss of family, reputation and work/livelihood.“Abusers are responsible for their actions, it is up to them to take action and stop, to get help or get caught.”
+
+Police Scotland consulted with partners on the campaign including Stop It Now! Scotland. Stuart Allardyce, Director of Stop It Now, Scotland, said:
+
+“Actions that would not be acceptable in real life, are not acceptable online. There are no grey areas. Whether it is sending sexualised messages or images to young people, trying to get them to send images to you, or trying to meet up for sexual purposes – all of these things are illegal and wrong.
+
+“Stop It Now! Scotland provides help to people who are worried about their sexual thoughts, feelings or behaviours towards children. We work with men who have committed online offences and many of them tell us that they knew what they were doing was wrong – but that they didn’t know how to stop.
+
+“If you are already talking to children or young people online, asking for images or seeking to meet them, or are feeling the urge to do so, please reach out to us for confidential and anonymous help. It is not only victims of the crime that suffer. Families of groomers are often devastated by the actions of their loved ones and this can have a life changing impact.
+
+“We know that at the current time, calling our helpline on 0808 1000 900 can be difficult given the current COVID-19 restrictions but confidential and anonymous help is only a phone call away.”
+
+Matt Forde, national head of service for NSPCC Scotland, said:
+
+“Each year hundreds of crimes of online child sexual abuse are recorded by police in Scotland, and we are deeply concerned that offenders are exploiting the conditions created by this current public health crisis, with children spending more time online.
+
+“Police Scotland has - now even more so than ever - rightly identified tackling these crimes as a priority, through raising awareness of the issue and sending a direct and robust message to offenders. However, law enforcement can in no way win this fight alone – tech firms must urgently make protecting children a task of utmost importance, by identifying and disrupting offenders on their sites.
+
+“It is also extremely important that parents have regular conversations with their children about their online activities and try to make them feel comfortable to talk about anything that concerns them.”
+
+Internet grooming and online child sexual abuse remains a major threat across the UK. Offences continue to rise with 1694 recorded in Scotland between April 2019 and February 2020, compared to 1573 over the same period for 2018/19.
+
+The #GetHelpOrGetCaught campaign, which cost £55k, will run across various social media platforms including Facebook, Twitter, Snapchat and YouTube, for an initial four week period.

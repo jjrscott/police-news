@@ -1,0 +1,32 @@
+```yaml
+area: Bedfordshire
+og:
+  description: '...'
+publish:
+  date: 19 Dec 2018
+title: Regional crime unit makes more than 400 arrests in 2018
+url: https://www.bedfordshire.police.uk/news-and-appeals/erosu-year-success-dec18
+```
+
+**The police unit tasked with tackling serious and organised crime across the eastern region has made more than 400 arrests and seized more than 110 kilograms of drugs in 2018.**
+
+The regional organised crime unit, which is part of the Eastern Region Special Operations Unit (ERSOU), is tasked with managing the threat posed from crime types such as firearms supply, county drugs lines, child sexual exploitation, cybercrime and modern day slavery.
+
+In 2018, officers from the unit arrested 438 people, secured jail sentences of almost 500 years, recovered 63 firearms, and seized 90 kilograms of Class A drugs and 23 kilograms of cannabis.
+
+Almost £5 million has also been confiscated by the unit from convicted criminals under the Proceeds of Crime Act, and 27 account freezing orders have been secured using new legislation introduced this year.
+
+Officers use a range of specialist tactics and work closely alongside police forces and partner agencies to disrupt dangerous offenders operating across Bedfordshire, Cambridgeshire, Hertfordshire, Norfolk, Suffolk, Essex and Kent.
+
+Hannah Wilkinson, head of the regional organised crime unit, said: "It's been a really successful year for ERSOU as we continue to grow and expand our capabilities.
+
+"Thanks for the hard work of our officers and partner agencies, a large number of prolific criminals will be spending Christmas behind bars and we've taken a significant quantities of drugs and illegal firearms off the streets.
+
+"We're looking forward to continuing the fight against serious and organised crime in 2019, and protecting people across the eastern region from harm."
+
+Successes for ERSOU this year include:
+
+ * Six members of an organised crime group who ran a multi-million pound drugs supply business in Luton being jailed for almost 100 years
+ * Two brothers jailed for defrauding more than 200 victims out of almost £17 million
+ * Two men sentenced after pleading guilty to being involved in a series of ram raids across the eastern region
+ * Securing what is believed to be the country's first ever account forfeiture order following the introduction of new legislation

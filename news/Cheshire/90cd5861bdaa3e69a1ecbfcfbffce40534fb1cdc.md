@@ -1,0 +1,32 @@
+```yaml
+area: Cheshire
+og:
+  description: Three men have been charged in connection with the thefts of catalytic converters from cars in Warrington
+  image: https://www.cheshire.police.uk/SysSiteAssets/media/images/brand/central/soh-default-og-image.png?crop=(5,0,195,100)&amp;w=600&amp;h=300&amp;scale=both
+  locale: en_GB
+  title: Three men charged following catalytic converter thefts in Warrington
+  type: website
+  url: https://www.cheshire.police.uk/news/cheshire/news/articles/2020/11/three-men-charged-following-catalytic-converter-thefts-in-warrington/
+title: Three men charged following catalytic converter thefts in Warrington | Cheshire Constabulary
+url: https://www.cheshire.police.uk/news/cheshire/news/articles/2020/11/three-men-charged-following-catalytic-converter-thefts-in-warrington/
+```
+
+14:47 02/11/2020
+
+**Three men have been charged in connection with the thefts of catalytic converters from cars in Warrington.**
+
+Seamus Maughan, Terence Mongan and Francis Mongan, all of Mere Lane, Bitteswell, Lutterworth, Leicestershire, were arrested shortly after a car was stopped by officers in the Gemini Retail Park area of Warrington at around 8.30pm on Friday 16 October.
+
+The trio have all subsequently been charged with two counts of theft from a motor vehicle.
+
+These charges relate to the thefts of catalytic converters from two cars in Warrington earlier that day, on Station Road and Knutsford Road in Grappenhall.
+
+Maughan, 38, Terence Mongan, 45, and Francis Mongan, 19, have also been charged with going equipped for theft.
+
+Maughan has been charged with driving whilst disqualified as well.
+
+The trio appeared at Crewe Magistrates' Court on Monday 26 October, via a video link.
+
+Maughan and Terence Mongan were remanded in custody and Francis Mongan was released on conditional bail.
+
+They are all set to appear at Chester Crown Court on Monday 23 November.
