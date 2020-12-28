@@ -1,12 +1,12 @@
 ```yaml
 area: Lancashire
 og:
-  description: "<p>\u200BThree people have been charged with attempted murder after a 16-year-old boy was stabbed inside a house inChatham Place, Preston. The teenage victim remains in a critical condition in hospital</p>"
+  description: "<p>\u200BThree people have been charged with attempted murder after a 16-year-old boy was stabbed inside a house in Chatham Place, Preston. The teenage victim remains in a critical condition in hospital.</p>"
   image: https://lancashire.police.uk/media/1341190/lancashire-police-link-3.jpg
   title: 'UPDATE: Three charged with attempted murder after teenager stabbed in Preston'
   type: website
   url: https%3a%2f%2fwww.lancashire.police.uk%2fnews%2f2020%2fdecember%2fupdate-three-charged-with-attempted-murder-after-teenager-stabbed-in-preston%2f
-title: 'Lancashire Constabulary - UPDATE: Further arrests in Preston stabbing investigation'
+title: 'Lancashire Constabulary - UPDATE: Three charged with attempted murder after teenager stabbed in Preston'
 url: https://www.lancashire.police.uk/news/2020/december/update-three-charged-with-attempted-murder-after-teenager-stabbed-in-preston/
 ```
 

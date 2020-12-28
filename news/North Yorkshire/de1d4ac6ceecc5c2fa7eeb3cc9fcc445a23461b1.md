@@ -1,0 +1,41 @@
+```yaml
+area: North Yorkshire
+article:
+  modified:
+    time: '2018-10-16T10:14:09+00:00'
+  published:
+    time: '2016-10-03T11:03:13+00:00'
+  publisher: http://www.facebook.com/NorthYorkshirePolice
+og:
+  description: "It happened at Boroughbridge at about 0.05am\_on\_Wednesday 21 September 2016, and involved the theft of a red Honda quadbike which was driven through Boroughbridge town centre at that time. We are conducting enquiries and are requesting the public\u2019s assistance to help determine the full circumstances surrounding the incident.\_In particular, we are appealing for any information [&hellip;]"
+  image: https://ac299a4b87076a66ac1c-ba8981882613ab522a836b37c94562dc.ssl.cf3.rackcdn.com/content/uploads/2016/06/crest-1.png
+  locale: en_US
+  site:
+    name: North Yorkshire Police
+  title: Stolen quadbike - Langthorpe, Boroughbridge - North Yorkshire Police
+  type: article
+  url: https://northyorkshire.police.uk/news/stolen-quadbike-langthorpe-boroughbridge/
+title: Stolen quadbike - Langthorpe, Boroughbridge
+url: https://northyorkshire.police.uk/news/stolen-quadbike-langthorpe-boroughbridge/
+```
+
+Last modified: 16 October 2018 at 11:14am
+
+North Yorkshire Police is appealing for witnesses and information about a farm burglary that occurred in Langthorpe, Boroughbridge.
+
+It happened at Boroughbridge at about 0.05am on Wednesday 21 September 2016, and involved the theft of a red Honda quadbike which was driven through Boroughbridge town centre at that time.
+
+We are conducting enquiries and are requesting the public’s assistance to help determine the full circumstances surrounding the incident. In particular, we are appealing for any information about a white/silver Renault Megane seen with the quad or any information regarding the offenders.
+
+Anyone with information that could assist the investigation should contact us on 101, select option 2, and ask for PC884 Mick Place . You can also email mick.place884@northyorkshire.pnn.police.uk
+
+If you wish to remain anonymous, you can pass information to Crimestoppers on 0800 555 111.
+
+Please quote the North Yorkshire Police reference number 12160171880.
+
+Contact details:
+ Mick Place \- #0884
+mick.place884@northyorkshire.pnn.police.uk | 30884
+Incident reference:
+ 12160171880
+Posted on 3 October 2016 at 11:03am in Local appeals

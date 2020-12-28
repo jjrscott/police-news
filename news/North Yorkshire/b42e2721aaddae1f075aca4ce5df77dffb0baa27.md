@@ -1,0 +1,44 @@
+```yaml
+area: North Yorkshire
+article:
+  modified:
+    time: '2016-05-23T10:29:18+00:00'
+  published:
+    time: '2016-01-14T10:26:07+00:00'
+  publisher: http://www.facebook.com/NorthYorkshirePolice
+og:
+  description: The two drink drivers who provided the highest breathalyser readings of North Yorkshire Police&#039;s Christmas campaign, have appeared in court.
+  image: https://ac299a4b87076a66ac1c-ba8981882613ab522a836b37c94562dc.ssl.cf3.rackcdn.com/content/uploads/2016/06/crest-1.png
+  locale: en_US
+  site:
+    name: North Yorkshire Police
+  title: Two drink drivers who gave highest readings of Christmas campaign, appear in court - North Yorkshire Police
+  type: article
+  url: https://northyorkshire.police.uk/news/two-drink-drivers-gave-highest-readings-christmas-campaign-appear-court-2/
+title: Two drink drivers who gave highest readings of Christmas campaign, appear in court
+url: https://northyorkshire.police.uk/news/two-drink-drivers-gave-highest-readings-christmas-campaign-appear-court-2/
+```
+
+Last modified: 23 May 2016 at 10:29am
+
+The two drink drivers who provided the highest breathalyser readings of North Yorkshire Police's Christmas campaign, have appeared in court.
+
+44-year-old Leanne Drinkwater of Fenby Gardens, Scarborough was arrested on suspicion of drink driving on 4 December, after providing a roadside breathalyser reading of 141ug of alcohol in 100ml of breath - over four times the legal limit.
+
+Reflecting the severity of the offence, Scarborough Magistrates handed her a suspended sentence of 14 weeks imprisonment, suspended for two years, along with a five year ban from the roads. Drinkwater was also ordered to pay £170 in related charges, carry out 240 hours of unpaid work and attend an alcohol dependency programme.
+
+40-year-old Ann Todd of Aske Avenue, Richmond was arrested on suspicion of drink driving in Richmond on 16 December. She returned a roadside breathalyser reading of 180ug in 100ml of breath - the highest reading of the campaign - over five times the legal limit.
+
+Todd, who pleaded guilty, received an eight week suspended sentence, suspended for 12 months and a three year ban from driving. She was also ordered to pay £165 in related charges, complete 100 hours of unpaid work and to attend an alcohol dependency programme.
+
+Commenting on these cases Traffic Sgt Andy Morton said:
+
+"The suspended prison sentences and lengthy bans that these two individuals received reflect the dim view that Magistrates take of drink driving.
+
+"Whilst we are pleased with the results of these two cases, it is disappointing to see that people still continue to ignore the warnings and drink and get behind the wheel. Not only are they a danger to themselves, they put everyone else on the road at risk.
+
+"Be assured - catching drink and drug drivers will continue to be a priority for the Roads Policing Group throughout 2016. Whilst the Christmas campaign may be over, the fight against drink and drug driving in North Yorkshire is not."
+
+He continued "We are out on the roads looking for people breaking the law. No matter what time of year it is, if you choose to drive under the influence of drink or drugs, we are out there and we will catch you. As these two cases demonstrate, you will face a court appearance and run the risk of receiving a hefty fine, a driving ban and the possibility of a prison sentence. The message is simple - don't drink or drug drive."
+
+Posted on 14 January 2016 at 10:26am in News stories
