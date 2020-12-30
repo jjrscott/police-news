@@ -2,7 +2,7 @@
 area: North Yorkshire
 article:
   modified:
-    time: '2020-12-29T20:36:59+00:00'
+    time: '2020-12-30T10:59:41+00:00'
   published:
     time: '2020-12-29T10:51:35+00:00'
   publisher: http://www.facebook.com/NorthYorkshirePolice
@@ -19,7 +19,7 @@ title: Man arrested as murder investigation launched in Selby
 url: https://northyorkshire.police.uk/news/police-on-scene-at-incident-in-selby-town-centre/
 ```
 
-Last modified: 29 December 2020 at 08:36pm
+Last modified: 30 December 2020 at 10:59am
 
 A murder investigation is underway after an incident at a property in Selby this morning.
 
@@ -34,5 +34,7 @@ A man in his 30s has been arrested. He remains in custody at this time, where he
 Anyone with information about the incident, who has not already spoken to police, is asked to contact North Yorkshire Police on 101, quoting reference number 12200246695. Information can also be passed anonymously to Crimestoppers on 0800 555 111.
 
 The local community will be understandably concerned to hear about this serious incident. Officers and PCSOs from Selby's Neighbourhood Policing Team will be in the area to provide reassurance to residents.
+
+**Update 10am 30 December 2020: The arrested man remains in custody at this time. Any further updates will appear on this page.**
 
 Posted on 29 December 2020 at 10:51am in News stories
