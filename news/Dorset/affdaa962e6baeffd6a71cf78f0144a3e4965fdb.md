@@ -1,13 +1,11 @@
 ```yaml
 area: Dorset
 og:
-  image: /Image.ashx?image=https://www.dorset.police.uk/media/65271/scene.jpg&amp;amp;width=150
   title: Renewed appeal following fail-to-stop collision near Sherborne
   type: website
   url: https://www.dorset.police.uk/news-information/article/11598
 title: Renewed appeal following fail-to-stop collision near Sherborne |
 twitter:
-  image: /Image.ashx?image=https://www.dorset.police.uk/media/65271/scene.jpg&amp;amp;width=150
   title: Renewed appeal following fail-to-stop collision near Sherborne
   url: https://www.dorset.police.uk/news-information/article/11598
 url: https://www.dorset.police.uk/news-information/article/11598
