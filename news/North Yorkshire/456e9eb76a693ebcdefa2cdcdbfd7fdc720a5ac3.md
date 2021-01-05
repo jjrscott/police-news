@@ -2,7 +2,7 @@
 area: North Yorkshire
 article:
   modified:
-    time: '2020-12-30T10:59:41+00:00'
+    time: '2021-01-02T20:26:18+00:00'
   published:
     time: '2020-12-29T10:51:35+00:00'
   publisher: http://www.facebook.com/NorthYorkshirePolice
@@ -19,7 +19,7 @@ title: Man arrested as murder investigation launched in Selby
 url: https://northyorkshire.police.uk/news/police-on-scene-at-incident-in-selby-town-centre/
 ```
 
-Last modified: 30 December 2020 at 10:59am
+Last modified: 2 January 2021 at 08:26pm
 
 A murder investigation is underway after an incident at a property in Selby this morning.
 
@@ -35,6 +35,6 @@ Anyone with information about the incident, who has not already spoken to police
 
 The local community will be understandably concerned to hear about this serious incident. Officers and PCSOs from Selby's Neighbourhood Policing Team will be in the area to provide reassurance to residents.
 
-**Update 10am 30 December 2020: The arrested man remains in custody at this time. Any further updates will appear on this page.**
+**Update 8pm Saturday 2 January 2021: A man has been charged in connection with this incident. The 36-year-old man has been charged with murder, attempted murder and assault. He is due to appear at York Magistrates Court on Monday 4 January 2021.**
 
 Posted on 29 December 2020 at 10:51am in News stories

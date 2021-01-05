@@ -13,11 +13,13 @@ title: Help us find Hana Davies missing from Ticehurst | Sussex Police
 url: https://www.sussex.police.uk/news/sussex/news/missing-people/help-us-find-hana-davies-missing-from-ticehurst/
 ```
 
+Updated News Post
+
 Police are urgently searching for Hana Davies, 44, who has been reported missing from Ticehurst.
 
 She was last seen about 9.20am on Saturday (2 January) and police are concerned for her welfare.
 
-Hana is vulnerable and it is believed she remains in the local Ticehurst area.
+Hana is vulnerable, and it is believed she has travelled to the London area.
 
 She is described as 5'3'', petite, white Asian mixed ethnicity, very long black hair, grey streaks in a ponytail. She was wearing a grey coat, a beige jumper, a black top, black jeans, black boots with thick black framed glasses, and was possibly carrying a handbag.
 

@@ -4,7 +4,7 @@ title: 'UPDATE: Serious Assault, Slaithwaite, Kirklees | West Yorkshire Police'
 url: https://www.westyorkshire.police.uk/news-appeals/update-serious-assault-slaithwaite-kirklees
 ```
 
-**Friday 1 January, 2020**
+**Friday 1 January, 2021**
 
 Police have charged a teenager in connection with a serious assault in Slaithwaite.
 
@@ -13,8 +13,6 @@ The incident happened on Wednesday 30 December around 5pm when an 18-year-old ma
 A 16-year-old male, from Huddersfield was arrested and he has now been charged with Section 18 wounding with intent.
 
 He will appear at Leeds magistrates court on 2 January.
-
-====================================================================================================
 
 **Thursday December 31, 2020**
 
