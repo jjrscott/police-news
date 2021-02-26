@@ -15,7 +15,7 @@ Posted on 15:54:00 on 26th November 2020
 
 Wanted man
 
-Officers are requesting the public's help in locating Stephen McDowell, aged 26, from Workington.
+Officers are requesting the public's help in locating Stephen McDowell, aged 27, from Workington.
 
 Stephen is wanted in connection to the following offences reported to police:
 

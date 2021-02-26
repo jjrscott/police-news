@@ -1,0 +1,46 @@
+```yaml
+area: Kent
+og:
+  description: Ashford Community Safety Unit are supplying security-marking kits to garages in town in response to recent theft concerns.
+  image: https://www.kent.police.uk/SysSiteAssets/media/images/brand/kent/open-graph/open-graph-default.jpg?crop=(15,0,585,300)&amp;w=600&amp;h=300&amp;scale=both
+  locale: en_GB
+  title: Police in Ashford provide support against catalytic converter thefts
+  type: website
+  url: https://www.kent.police.uk/news/kent/news2/policing-news/2102/police-in-ashford-provide-support-against-catalytic-convertor-thefts/
+publish:
+  date: 13:38 04/02/2021
+title: Police in Ashford provide support against catalytic converter thefts | Kent Police
+url: https://www.kent.police.uk/news/kent/news2/policing-news/2102/police-in-ashford-provide-support-against-catalytic-convertor-thefts/
+```
+
+Police in **Ashford** are taking steps to support vehicle owners at risk of catalytic converter theft.
+
+Ashford Community Safety Unit has supplied permanent security-marking kits to several garages in the town, in an initiative which will allow mechanics to mark the catalytic converters of cars when they are brought in for a service.
+
+If the engine part is then stolen, it will be harder for the thieves to sell on, and easier to locate, identify and return to the owners if it is recovered by police. The markings will also help identify and prosecute offenders.
+
+Catalytic converters are found in the exhaust system of vehicles and reduce the output of toxic gases and pollutants. Criminals sometimes steal them because they aren't easily identifiable and can be sold on for the precious metals found inside them.
+
+As well as the introduction of the kits, officers have been carrying out patrols in the district where thefts have been reported, as well as working with scrap metal dealers.
+
+Ashford CSU Inspector Simon Johnson said: 'We appreciate how upsetting and inconvenient the theft of a catalytic converter can be when your vehicle is targeted by thieves, so within the Community Safety Unit we have been looking at actions we can take which will make things much harder for any opportunist thief.'
+
+PCSO Laura Langridge, Ashford's crime prevention officer, said: 'We are grateful to the garages for working with us on this initiative.
+
+'We will be speaking to past victims of catalytic converter thefts to see if this is something they would be interested in, to hopefully prevent them from being targeted again.'
+
+Vehicle owners interested in the kits must email the Community Safety Unit: csu.ashford@kent.police.uk. Motorline Toyota, Motorline Peugeot and Kwikfit garages in the town have a supply of the kits.
+
+## Staying safe
+
+Other measures can be taken to reduce the risk of theft:
+
+• Contact your car's manufacturer, as some sell clamps and security cages that make catalytic converters more difficult to steal.
+
+• Park your vehicle in a garage whenever possible.
+
+• If you do not have a garage then park in a busy, well-lit area.
+
+• Consider installing good quality CCTV cameras.
+
+Ashford officers are working to protect people against catalytic converter theft

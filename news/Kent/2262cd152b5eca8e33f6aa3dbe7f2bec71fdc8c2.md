@@ -19,6 +19,6 @@ A burglary charge has been authorised against a man who is alleged to have stole
 
 The 37-year-old, of Gordon Road, Gillingham, was arrested on the same date as the offence and later charged by Kent Police's Chief Constable's Crime Squad with one count of burglary.
 
-He has been remanded in custody to attend Medway Magistrates' Court on Saturday 9 January.
+He apopeared at Medway Magistrates' Court on Saturday 9 January, where he admitted the offence. He has been remanded in custody to appear for sentence at Maidstone Crown Court, on a date to be determined.
 
 Another 37-year-old man from Gillingham was also arrested in connection with the incident and he has been released on bail, pending further enquiries, until Wednesday 3 February.

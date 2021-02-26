@@ -2,7 +2,7 @@
 area: Thames Valley
 og:
   description: "Thames Valley Police and partners are rolling out a drug diversion scheme for under 18\u2019s forcewide as part of work being delivered by the Violence Reduction Unit."
-  image: https://www.thamesvalley.police.uk/SysSiteAssets/media/images/brand/central/soh-default-og-image.png?crop=(5,0,195,100)&amp;w=600&amp;h=300&amp;scale=both
+  image: https://www.thamesvalley.police.uk/SysSiteAssets/media/images/brand/thames-valley/open-graph/open-graph-600x300.jpg?crop=(15,0,585,300)&amp;w=600&amp;h=300&amp;scale=both
   locale: en_GB
   title: "Youth Drug Diversion Scheme to be rolled out forcewide \u2013 Thames Valley"
   type: website

@@ -13,8 +13,6 @@ title: Police have released an e-fit following a burglary in Stockport | Greater
 url: https://www.gmp.police.uk/news/greater-manchester/news/appeals/2020/december/police-have-released-an-e-fit-following-a-burglary-in-stockport/
 ```
 
-e-fit
-
 At around 3.35am on Friday 18 December 2020, police were called to a report of a burglary on Parsonage Road, Heaton Moor.
 
 Officers attended and established that the victim had woken up to see a man standing at his bedroom door. The victim chased the man and discovered that he was in possession of a small kitchen knife. A short time later, the victim's wife ran down the stairs and the couple pushed the intruder out of the front door.
