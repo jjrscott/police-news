@@ -2,7 +2,7 @@
 area: Avon and Somerset
 article:
   modified:
-    time: 2021-03-01T09:33+00:00
+    time: 2021-03-01T12:28+00:00
   published:
     time: 2021-03-01T09:33+00:00
 og:
@@ -14,7 +14,7 @@ og:
   title: Moving the conversation around knife crime forward | Avon and Somerset Police
   type: article
   updated:
-    time: 2021-03-01T09:33+00:00
+    time: 2021-03-01T12:28+00:00
   url: https://www.avonandsomerset.police.uk/news/2021/03/moving-the-conversation-around-knife-crime-forward/
 position: '2'
 publish:
@@ -31,7 +31,7 @@ There is 1 related update to this story
 
 Our work to reduce knife crime and serious youth violence is continuing as our campaign moves into its next phase, with the release of a documentary produced by one of the young people involved in our animation project.
 
-Bristol Futures Academy student Harvey, who made The Cycle, one of four films created as part of an innovative police youth engagement project, has now made a film exploring how agencies must work together and listen to young people if we are to break the cycle of violence.
+Bristol student Harvey, who made one of the four films created as part of an innovative police youth engagement project, has now made a film exploring how agencies must work together and listen to young people if we are to break the cycle of violence.
 
 In _Knife crime: A new way forward_ , Harvey talks to key professionals in the Avon and Somerset area involved in the delivery of youth and other services, including the Chief Constable of Avon and Somerset Police Andy Marsh, and Police and Crime Commissioner Sue Mountstevens. He explores the reasons why young people might carry knives, and what support they need in order to have better life opportunities.
 

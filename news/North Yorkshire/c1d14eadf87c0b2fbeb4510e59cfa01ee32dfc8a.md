@@ -1,6 +1,8 @@
 ```yaml
 area: North Yorkshire
 article:
+  modified:
+    time: '2021-03-01T14:25:10+00:00'
   published:
     time: '2021-02-27T09:51:11+00:00'
   publisher: http://www.facebook.com/NorthYorkshirePolice
@@ -17,7 +19,7 @@ title: Appeal for witnesses after serious collision on A64 near York
 url: https://northyorkshire.police.uk/news/appeal-for-witnesses-after-serious-collision-on-a64-near-york/
 ```
 
-Last modified: 27 February 2021 at 09:51am
+Last modified: 1 March 2021 at 02:25pm
 
 Police are appealing for witnesses following a serious collision on the A64 near York.
 
