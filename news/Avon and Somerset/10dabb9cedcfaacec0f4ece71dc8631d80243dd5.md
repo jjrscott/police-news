@@ -1,12 +1,20 @@
 ```yaml
 area: Avon and Somerset
+article:
+  modified:
+    time: 2019-09-14T08:34+00:00
+  published:
+    time: 2019-09-14T08:34+00:00
 og:
   description: The charges relates to burglaries in Burnham-on-Sea&#8230;
+  image: https://cdn.aspolice.net/tasks/production/79/img/default-2x.jpg
   locale: en_GB
   site:
     name: Avon and Somerset Police
   title: Man charged following burglaries in Burnham&#x2d;on&#x2d;Sea | Avon and Somerset Police
-  type: website
+  type: article
+  updated:
+    time: 2019-09-14T08:34+00:00
   url: https://www.avonandsomerset.police.uk/news/2019/09/man-charged-following-burglaries-in-burnham-on-sea/
 position: '2'
 publish:

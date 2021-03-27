@@ -1,12 +1,20 @@
 ```yaml
 area: Avon and Somerset
+article:
+  modified:
+    time: 2019-09-26T10:30+00:00
+  published:
+    time: 2019-09-26T10:30+00:00
 og:
   description: New safe space for women&#8230;
+  image: https://cdn.aspolice.net/tasks/production/79/img/default-2x.jpg
   locale: en_GB
   site:
     name: Avon and Somerset Police
   title: Avon and Somerset Police co&#x2d;funds new Nelson Trust women&#x2d;only safe space supported by First Bus | Avon and Somerset Police
-  type: website
+  type: article
+  updated:
+    time: 2019-09-26T10:30+00:00
   url: https://www.avonandsomerset.police.uk/news/2019/09/avon-and-somerset-police-co-funds-new-nelson-trust-women-only-safe-space-supported-by-first-bus/
 position: '2'
 publish:

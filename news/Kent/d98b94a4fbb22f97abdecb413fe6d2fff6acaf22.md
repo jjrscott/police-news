@@ -1,0 +1,32 @@
+```yaml
+area: Kent
+og:
+  description: Information is being sought by officers investigating a suspected arson in Hersden.
+  image: https://www.kent.police.uk/SysSiteAssets/media/images/brand/kent/open-graph/open-graph-default.jpg?crop=(15,0,585,300)&amp;w=600&amp;h=300&amp;scale=both
+  locale: en_GB
+  title: Suspected arson at sports pavilion in Hersden
+  type: website
+  url: https://www.kent.police.uk/news/kent/news2/appeals/suspected-arson-at-sports-pavilion-in-hersden/
+publish:
+  date: 13:31 04/04/2020
+title: Suspected arson at sports pavilion in Hersden | Kent Police
+url: https://www.kent.police.uk/news/kent/news2/appeals/suspected-arson-at-sports-pavilion-in-hersden/
+```
+
+Information is being sought by officers investigating a suspected arson in **Hersden**.
+
+A sports pavilion on **The Avenue** was destroyed by a fire which started at around **7am** on **Saturday 4 April 2020**. Nobody was injured in the blaze which was put out by Kent Fire and Rescue Service.
+
+## Suspicious
+
+Officers are treating the cause of the fire as suspicious and are completing house-to-house enquiries in the area, while the scene is being forensically examined.
+
+District Commander, Chief Inspector Julien Lawton said: 'We believe the fire was started deliberately and are very keen to hear from anyone who may have seen anything at all unusual or suspicious.
+
+'I would also appeal to nearby residents, who have not yet spoken to my officers, to check any CCTV they may have outside their homes.'
+
+## Can you help?
+
+Anyone with information which may assist the investigation, is asked to call the Kent Police on **01843 222289** , quoting reference **4-0162**.
+
+You can also contact Crimestoppers, anonymously on **0800 555111** or use the anonymous online form.

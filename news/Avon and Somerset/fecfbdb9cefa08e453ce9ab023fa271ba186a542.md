@@ -1,12 +1,20 @@
 ```yaml
 area: Avon and Somerset
+article:
+  modified:
+    time: 2019-07-15T10:57+00:00
+  published:
+    time: 2019-07-15T10:57+00:00
 og:
   description: Appeals for witnesses after a assault in Bridgwater&#8230;
+  image: https://cdn.aspolice.net/tasks/production/79/img/default-2x.jpg
   locale: en_GB
   site:
     name: Avon and Somerset Police
   title: Appeal after an unprovoked attack in Bridgwater | Avon and Somerset Police
-  type: website
+  type: article
+  updated:
+    time: 2019-07-15T10:57+00:00
   url: https://www.avonandsomerset.police.uk/news/2019/07/appeal-after-an-unprovoked-attack-in-bridgwater/
 position: '2'
 publish:

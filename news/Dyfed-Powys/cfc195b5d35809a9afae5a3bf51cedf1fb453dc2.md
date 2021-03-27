@@ -45,13 +45,13 @@ For free, confidential support contact Goleudy, a commissioned service for victi
 
  * One partner seems afraid of the other, or very anxious to please him or her
  * One partner often criticises or humiliates the other in front of other people
- * You can see physical injuries (bruises, broken bones, sprains, cuts etc) and may have been given unlikely explanation for their injuries
+ * You can see physical injuries (bruises, broken bones, sprains, cuts etc.) and may have been given unlikely explanation for their injuries
  * One partner is reluctant to leave children with the other partner.
 
 **For support and advice:**
 
  * Call the abuse and violence helpline Live Fear Free helpline on 0808 8010 800
- * Download the free Brightsky app - it's full of information and has a secret setting to help protect your privacy
+ * Download the free Bright Sky app - it's full of information and has a secret setting to help protect your privacy
  * Visit dyfed-powys.police.uk/ClaresLaw to learn about a scheme where you can find out if your current or potential partner has a history of abuse or violence.
  * Visit ncdv.org.uk for free legal help, quickly
 
